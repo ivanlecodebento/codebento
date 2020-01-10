@@ -1,0 +1,7 @@
+{
+  "name": "iaptest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
